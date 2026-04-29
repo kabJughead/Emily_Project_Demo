@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+google-genai
+happytransformer
+torch
+requests
+pydantic
+gramformer @ git+https://github.com/PrithivirajDamodaran/Gramformer.git

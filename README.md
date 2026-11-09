@@ -19,6 +19,31 @@ Output: "She went to school yesterday."
 
 ---
 
+## 📸 ภาพหน้าจอ (Screenshots)
+
+### หน้าแรก
+พิมพ์ประโยคภาษาอังกฤษ (สูงสุด 500 ตัวอักษร) กด **Check Grammar** หรือกด **Random** เพื่อสุ่มประโยคตัวอย่าง
+มีประวัติการตรวจ สลับธีม Dark / Light และคำอธิบายสีของคำในแถบด้านข้าง
+
+![Home](docs/images/home.png)
+
+### สรุปผลการตรวจ
+แสดงจำนวนจุดที่ต้องแก้ไขและเวลาที่ใช้ประมวลผล
+
+![Result Summary](docs/images/result-summary.png)
+
+### Highlight การเปลี่ยนแปลงและคำอธิบาย
+ไฮไลต์คำที่ผิด คำที่แก้แล้ว และคำที่ถูกลบ พร้อมคำอธิบายกฎไวยากรณ์ของแต่ละจุด
+
+![Highlight and Explanation](docs/images/highlight.png)
+
+### Before & After
+เปรียบเทียบประโยคต้นฉบับกับประโยคที่แก้แล้วแบบเคียงข้างกัน
+
+![Before and After](docs/images/before-after.png)
+
+---
+
 ## 📋 Requirements
 
 | Tool   | Version            |

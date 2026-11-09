@@ -308,10 +308,3 @@ py -3.11 -m venv venv
 ```
 
 ---
-
-## 📝 หมายเหตุ
-
-- **Gemini Free Tier** มี quota จำกัด (~20 req/day สำหรับ gemini-2.5-flash)
-- ถ้า Gemini quota หมด ระบบจะใช้ **Offline Rules** อธิบายแทน
-- ครั้งแรกที่รัน จะโหลด model ~892MB (ใช้เวลานาน)
-- ครั้งต่อไปจะเร็วขึ้นเพราะ cache ไว้แล้ว
